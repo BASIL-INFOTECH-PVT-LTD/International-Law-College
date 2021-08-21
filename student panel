@@ -1,0 +1,20 @@
+Login/logout
+-email or phone 
+-password
+   =remember password 
+   =forgot password
+Dashboard
+-teacher 
+   teacher name, department
+-subject or subject code
+-library
+    =book name
+    =pending books
+    =history
+Attendence 
+Result
+Fees
+  =pending fees
+  =deposited fees
+Report
+   =any dashboard issue
