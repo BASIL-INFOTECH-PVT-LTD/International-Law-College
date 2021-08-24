@@ -1,0 +1,56 @@
+ADMIN PANEL 
+
+->Login/Logout
+->Email or phone no.
+->Password
+->Remember Password
+->Forgot Password
+
+♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤
+《《DASHBOARD》》
+
+COURSES->
+List of courses
+
+STUDENTS->
+List of Students
+
+TEACHER->
+
+SUBJECT->
+
+LIBRARY->
+Viewing Books
+Pending Books
+History
+
+VIEW ATTENDANCE->
+Monthly
+Total
+
+FEES->
+View Fees Record
+
+RESULT->
+View Result
+
+♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤♤
+
+1.Admin can
+ADD, 
+EDIT, 
+DELETE,
+VIEW the records of AD
+COLLEGE,
+COURSES,
+SEMESTER,
+FACULTY.
+2. Admin can manage all 
+the details of
+STUDENT,
+SUBJECT,
+FEES.
+3.Admin can search the details of 
+STUDENT,
+SEMESTER,
+FEES.
